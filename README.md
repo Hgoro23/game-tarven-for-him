@@ -1,1 +1,2 @@
-# game-tarven-for-him
+# TheTavernAudio
+Small tavern Unity sound implementation project
